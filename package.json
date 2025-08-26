@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "multer": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

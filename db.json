@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Acer Swift",
+      "brand": "Acer",
+      "category": "Computers",
+      "price": 929,
+      "description": "vfgfhfhghfdfffffffffffffffdggsdsdwewe",
+      "image": "/images/Acer.jpg",
+      "createdAt": "2023-07-13T17:46:54.890000"
+    },
+    {
+      "id": 3,
+      "name": "phone",
+      "brand": "Redmi",
+      "category": "Phones",
+      "price": 30000,
+      "description": "xhdbxjbdcjbecjfcbfc",
+      "image": "/images/redmi.jpeg",
+      "createdAt": "2025-08-24T16:37:20.373Z"
+    },
+    {
+      "id": 4,
+      "name": "ipad",
+      "brand": "Apple",
+      "category": "Accessories",
+      "price": 200000,
+      "description": "jhcbjdbcbdcbdshbc scbjdhcbbsdjcndcbsdbchsbbcbsjd cbsd bscnx",
+      "image": "/images/apple.jpeg",
+      "createdAt": "2025-08-24T16:52:06.406Z"
+    },
+    {
+      "id": 5,
+      "name": "HeadPhone",
+      "brand": "boat",
+      "category": "Accessories",
+      "price": 3000,
+      "description": "jdcwje cbwd nbxanhsxbbbbabbjhsja",
+      "image": "/images/1756202801461_headPhones.webp",
+      "createdAt": "2025-08-26T10:06:41.474Z"
+    },
+    {
+      "id": 6,
+      "name": "earpode",
+      "brand": "JBL",
+      "category": "others",
+      "price": 2800,
+      "description": "khbkdbchsd nx mnxmbdshbcjhdcjgwueguyvwcvdgxvjsavjxvdvx",
+      "image": "/images/1756202936860_earpodes.jpeg",
+      "createdAt": "2025-08-26T10:08:56.865Z"
+    },
+    {
+      "id": 7,
+      "name": "laptop",
+      "brand": "Mac",
+      "category": "Computers",
+      "price": 200000,
+      "description": "kjcdkvbkfbvhksvbhkbkhbfhkvbfbvhj",
+      "image": "/images/1756203304272_apple.jpeg",
+      "createdAt": "2025-08-26T10:15:04.280Z"
+    }
+  ]
+}
